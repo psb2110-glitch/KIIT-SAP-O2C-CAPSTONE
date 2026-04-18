@@ -13,7 +13,7 @@
 | **Program** | B.Tech — Computer Science & Engineering (2023 - 2027) |
 | **Course** | Introducing SAP Business Data Cloud |
 | **Institution** | Kalinga Institute of Industrial Technology (KIIT), Bhubaneswar — 751024 |
-| **Submission Date** | April 21, 2026 |
+| **Submission Deadline** | April 21, 2026 |
 
 ---
 
